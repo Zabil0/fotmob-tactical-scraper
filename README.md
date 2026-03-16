@@ -22,3 +22,6 @@ Common FotMob League IDs:
 54 - Bundesliga
 55 - Serie A
 87 - La Liga
+
+Install the required dependencies using the requirements.txt file:
+pip install -r requirements.txt
